@@ -1,0 +1,11 @@
+{
+  "name": "vscode-test",
+  "version": "1.0.0",
+  "description": "测试 Vscode 在线编辑",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
